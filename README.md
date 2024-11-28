@@ -30,3 +30,4 @@ To use this repository to build an app, edit the `repositories` block in your
 `settings.gradle` or `build.gradle` file to [declare your
 repository](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:declaring_multiple_repositories)
 before `mavenCentral`. Either an HTTP URL or a local path can be used.
+adelhanan866@gmail.com
